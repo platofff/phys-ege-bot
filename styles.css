@@ -1,0 +1,16 @@
+html {
+    height: auto;
+}
+
+body {
+    font-family: Noto Sans, sans-serif;
+    height: auto;
+}
+
+.MsoNormal {
+    font-size: larger;
+}
+
+table.answer-table:nth-last-child(1), input.answer, .answer-item-marker {
+    display: none;
+}
