@@ -9,7 +9,7 @@ python download_tasks.py
 ### Запуск чат-бота
 ```commandline
 pip install -r requirements.txt
-python main.py
+env TOKEN='<telegram bot API token>' python main.py
 ```
 
 ![Скриншот](screenshot.jpg "Работа чат-бота")
